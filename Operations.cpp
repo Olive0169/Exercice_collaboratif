@@ -45,6 +45,13 @@ int exposant (int nb, int exp)
 	return resultat;
 }
 
-int carre (int a, int b){
+int carre (int a, int b)
+
+{
+	int resultat;
+	
+	resultat = resulat*resulat ;
+	
+	return resultat;
 	
 }

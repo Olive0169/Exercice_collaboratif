@@ -44,3 +44,7 @@ int exposant (int nb, int exp)
 	
 	return resultat;
 }
+
+int carre (int a, int b){
+	
+}

@@ -7,3 +7,4 @@ int multiplication(int a, int b);
 float division(int a, int b);
 
 int exposant(int nb, int exp);
+qerbqege
